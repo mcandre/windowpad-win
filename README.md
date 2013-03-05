@@ -2,7 +2,7 @@
 
 # DOWNLOAD
 
-
+https://github.com/mcandre/windowpad-win/blob/master/windowpad-1.60.0.0.msi?raw=true
 
 # HOMEPAGE
 
